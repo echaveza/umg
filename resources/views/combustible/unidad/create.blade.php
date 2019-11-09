@@ -52,7 +52,7 @@
 						<button class="btn btn-danger" type="reset"><i class="fa fa-close"></i> Cancelar</button>
 					</div>
 				</div>
-					{!!Form::close()!!}
+				
 			</div>
 		</div>
 	</form>
